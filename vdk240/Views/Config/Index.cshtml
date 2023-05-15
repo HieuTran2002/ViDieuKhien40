@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container w-50">
+    <h2>MQTT Connection Configuration</h2>
+    <form id="mqttForm">   
+        <div class="form-group">
+            <label for="brokerUrl">Broker URL:</label>
+            <input type="text" class="form-control" id="brokerUrl" placeholder="Enter the broker URL" required>
+        </div>
+        <div class="form-group">
+            <label for="clientId">Client ID:</label>
+            <input type="text" class="form-control" id="clientId" placeholder="Enter the client ID" required>
+        </div>
+        <div class="form-group">
+            <label for="socketPort">Socket port:</label>
+            <input type="text" class="form-control" id="socketPort" placeholder="Enter the socket port" required>
+        </div>
+        <div class="form-group">
+            <label for="username">Username:</label>
+            <input type="text" class="form-control" id="username" placeholder="Enter the username">
+        </div>
+        <div class="form-group">
+            <label for="password">Password:</label>
+            <input type="password" class="form-control" id="password" placeholder="Enter the password">
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3" onclick={this.handleFormSubmit}>Connect</button>
+    </form>
+</div>

@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "os": "^0.1.2",
+    "webpack-cli": "^5.1.1"
+  }
+}

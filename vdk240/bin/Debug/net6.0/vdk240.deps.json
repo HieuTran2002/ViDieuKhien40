@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "vdk240/1.0.0": {
+        "dependencies": {
+          "Microsoft.TypeScript.MSBuild": "5.0.4",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.2"
+        },
+        "runtime": {
+          "vdk240.dll": {}
+        }
+      },
+      "Microsoft.TypeScript.MSBuild/5.0.4": {},
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.2": {}
+    }
+  },
+  "libraries": {
+    "vdk240/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.TypeScript.MSBuild/5.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fXuMICTqQZKbYyL8Hf1ZypgBSF2U1ZRYss3CL3nWSVLzUku9lESFgEFYgSNFLsO34i1tlkeWjXQ2q1ri3gkDiQ==",
+      "path": "microsoft.typescript.msbuild/5.0.4",
+      "hashPath": "microsoft.typescript.msbuild.5.0.4.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5daNXm8Hb016oETmuHXiW8jclmRR9CzM7XrOh2htYhQ/7AAYtqntZ1MrZkh09+JTtdjYdGsy2XIMPe9cg83x5w==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.17.2",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+    }
+  }
+}

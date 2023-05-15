@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y/yy0Yj8UYed7kmq2rEhf6mA/h+TOZQmuXfwGwfdi63uwMJvZEcntrzQoZWDq3HR2DF2MUhw3rVykkD8cy1v7g==",
+  "success": true,
+  "projectFilePath": "F:\\Code\\webDev\\ASP.NET\\vdk240\\vdk240\\vdk240.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angryPanda\\.nuget\\packages\\microsoft.typescript.msbuild\\5.0.4\\microsoft.typescript.msbuild.5.0.4.nupkg.sha512",
+    "C:\\Users\\angryPanda\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
