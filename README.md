@@ -1,1 +1,2 @@
-# My code suck
+# Microcontroller advanced - project closure 
+
